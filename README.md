@@ -1,1 +1,4 @@
-# This is my README
+# Design patterns in PHP
+
+-> Observer
+-> Singleton ( on database connection )
