@@ -3,3 +3,4 @@
 -> Observer
 -> Singleton ( on database connection )
 -> Factory
+-> Strategy
